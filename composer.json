@@ -1,8 +1,8 @@
 {
-  "name": "elama/php-raml-parser",
+  "name": "adv-forks/php-raml-parser",
   "type": "library",
   "description": "A RAML parser built in php",
-  "homepage": "https://github.com/eLama/php-raml-parser",
+  "homepage": "https://github.com/adv-forks/php-raml-parser",
   "license": "MIT",
 
   "authors": [
